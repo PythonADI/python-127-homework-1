@@ -1,0 +1,1 @@
+print("My name is Saba, I am 24 years old, and i live in Tbilisi.")
